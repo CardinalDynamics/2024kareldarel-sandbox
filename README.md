@@ -1,2 +1,2 @@
 # 2024kareldarel-sandbox
- Auto and vision with kareldarel
+ Practice writing and tuning code for autonomous, teleop, and vision processing for the kareldarel robot.
